@@ -1,0 +1,5 @@
+module OWV
+typeinfo appOWV.qmltypes
+prefer :/OWV/
+Main 1.0 Main.qml
+
